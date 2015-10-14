@@ -1,0 +1,24 @@
+Type Fisher
+Useable Fisher
+ID 503
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Durability 1
+
+Fishes 2
+Fish_0 504
+Fish_1 505
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 67
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 65
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27

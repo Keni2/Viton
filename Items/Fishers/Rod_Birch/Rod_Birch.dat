@@ -1,0 +1,33 @@
+Type Fisher
+Useable Fisher
+ID 506
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Durability 4
+
+Fishes 2
+Fish_0 504
+Fish_1 505
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 38
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 64
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 38
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 64
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27

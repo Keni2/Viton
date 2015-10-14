@@ -1,0 +1,11 @@
+Type Food
+Useable Consumeable
+ID 505
+
+Size_X 2
+Size_Y 1
+Size_Z 0.225
+
+Food 20
+Water 30
+Virus 30

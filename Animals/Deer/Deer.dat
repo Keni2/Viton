@@ -1,0 +1,10 @@
+Type Animal
+ID 1
+
+Speed_Run 12
+Speed_Walk 4
+
+Health 100
+
+Meat 514
+Pelt 516

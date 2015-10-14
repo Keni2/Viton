@@ -1,0 +1,22 @@
+Type Steam
+ID 527
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Pro
+Tool Box
+
+Generate 21003
+Destroy 20000
+
+Drops 8
+Drop_0 -1
+Drop_1 49800
+Drop_2 53100
+Drop_3 52300
+Drop_4 53000
+Drop_5 50100
+Drop_6 49600
+Drop_7 50200

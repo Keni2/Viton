@@ -1,0 +1,25 @@
+Type Barrel
+ID 477
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 2
+Caliber_0 17
+
+Silenced 
+Volume 0.8
+
+Damage 0.8
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 72
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27

@@ -1,0 +1,20 @@
+Type Barrel
+ID 144
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 5
+Caliber_0 9
+Caliber_1 10
+Caliber_2 11
+Caliber_3 26
+Caliber_4 27
+
+Silenced 
+Volume 0.3
+
+Damage 0.8
+
+Paintable

@@ -1,0 +1,21 @@
+Type Steam
+ID 494
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Pro
+Tool Box
+
+Generate 21001
+Destroy 20000
+
+Drops 7
+Drop_0 -1
+Drop_1 49200
+Drop_2 50000
+Drop_3 52400
+Drop_4 49500
+Drop_5 49900
+Drop_6 49700

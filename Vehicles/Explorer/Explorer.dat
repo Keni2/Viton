@@ -1,0 +1,25 @@
+Type Vehicle
+ID 58
+
+Speed_Min -6
+Speed_Max 13
+
+Steer_Min 24
+Steer_Max 48
+
+Brake 32
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 400
+Health_Max 600
+Health 800
+
+Exit 3.5
+
+Crawler
+Traction
+
+Explosion 20

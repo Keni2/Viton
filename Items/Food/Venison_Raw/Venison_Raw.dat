@@ -1,0 +1,11 @@
+Type Food
+Useable Consumeable
+ID 514
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Heal 10
+Food 55
+Virus 40
